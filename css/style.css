@@ -139,6 +139,7 @@ a:focus, a:hover {
     background:#07cb79;
     position:fixed;
 	z-index:500;
+	width:100%;
 }
 .navbar-default {
 	background-color:Transparent;
